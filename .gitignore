@@ -1,0 +1,6 @@
+*.docx
+.DS_Store
+*.zip
+
+docs/*
+__pycache__
